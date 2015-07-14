@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Just in Code. </title>
-    <link>http://localhost:1313/post/</link>
+    <link>http://daisuke310vvv.github.io/post/</link>
     <language>en-us</language>
     <author></author>
     <rights>(C) 2015</rights>
@@ -11,14 +11,16 @@
     
       
         <item>
-          <title>first</title>
-          <link>http://localhost:1313/post/first/</link>
+          <title>First Post</title>
+          <link>http://daisuke310vvv.github.io/post/first/</link>
           <pubDate>Tue, 14 Jul 2015 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://localhost:1313/post/first/</guid>
+          <guid>http://daisuke310vvv.github.io/post/first/</guid>
           <description>
 
-&lt;h2 id=&#34;first-post-with-hugo:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;first post with hugo&lt;/h2&gt;
+&lt;h2 id=&#34;ブログ作成:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;ブログ作成!&lt;/h2&gt;
+
+&lt;p&gt;主に技術関連です.&lt;/p&gt;
 </description>
         </item>
       
